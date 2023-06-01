@@ -1,0 +1,12 @@
+   "num"  "trialt"     "cue"  "codCUE"  "delay1"   "dis"  "codDIS"               "DIS"  "delay2"          "TAR"  "codTAR"    "bp" "ISIrand"; 
+       1         0    "Bdog"         1       438       0       101               "nul"     415   "S_tarson_L"       201       1       134;
+       2         1    "Ldog"        17       776       0       117               "nul"     235   "S_tarson_L"       217       1       163;
+       3         0    "Bdog"         1       454       0       101               "nul"     532   "S_tarson_L"       201       1        99;
+       4         0    "Bdog"         1       454       0       101               "nul"     532   "S_tarson_L"       201       1        99;
+       5         1    "Rdog"        38       333       1       138       "telephone19"     678   "S_tarson_R"       238       1         8;
+       6         0    "Bdog"         1       454       0       101               "nul"     532   "S_tarson_L"       201       1        99;
+       7         1    "Ldog"        25       827       2       125            "ring20"     220   "S_tarson_L"       225       1        29;
+       8         1    "Ldog"        17       689       0       117               "nul"     341   "S_tarson_L"       217       1        22;
+       9         1    "Rdog"        34       652       0       134               "nul"     285   "S_tarson_R"       234       1        76;
+      10         0    "Bdog"         6       582       1       106            "RINGIN"     407   "S_tarson_R"       206       1        99;
+};
